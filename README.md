@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
 ## About Me
-Hi! I am a **Data Science & Decision Support Systems Master's Student** with a background in **International Business Administration (IBA)**.
+Hi! I am a **Data Science & Decision Support Master's Student** with a background in **International Business Administration (IBA)**.
 
 My unique strength lies in being a "Purple Person" in the tech industry—someone who understands both the **business logic** (Red) and the **technical execution** (Blue).
 
